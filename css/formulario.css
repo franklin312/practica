@@ -1,0 +1,64 @@
+.ventana{
+    width: 65rem;
+     height: 41rem;
+     margin: auto;
+     background-color:rgb(63, 43, 177);
+     border-radius: 10px 10px 10px 10px;
+     
+ }
+ .ventana_fondo{
+    width:60rem;
+    height: 40rem;
+    background-color: rgb(0, 0, 0);
+    
+    margin-top: 0.2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 2rem;
+    
+    margin: 0rem 2rem 2rem 3rem;
+    border-radius: 20px 20px 20px 20px;
+ }
+
+ .ventana_fondo_txt{
+    
+    color: rgb(255, 255, 255);
+    margin-right: 5rem;
+    
+    align-items: center;
+ }
+ .button_1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(2, 2, 2);
+    border-radius: 50px 50px 50px 50px;
+    padding: 10px 50px;
+    margin-top: 19rem;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ 
+
+ 
+ .ventana_1{
+    width: 25rem;
+    height: 20rem;
+    border-radius: 10px ;
+    margin: 0rem 2rem 0rem 3rem ;
+   
+ }
+ .button{
+    margin-bottom: 36rem;
+    background-color: rgb(255, 255, 255);
+    color: rgb(2, 2, 2);
+    border-radius: 50px 50px 50px 50px;
+    padding: 5px 20px;
+
+ }
+
+ 
